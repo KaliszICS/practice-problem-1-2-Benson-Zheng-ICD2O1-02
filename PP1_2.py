@@ -29,13 +29,12 @@ def q4():
   sixPointThree = 6.3
   threePointZero = 3.0
   print (sixPointThree/threePointZero)
-
 def q5():
   #Write Assignment code here
-  HelloWorld = 15
-  GoodbyeWorld = 5
-  print (HelloWorld)
-  print (GoodbyeWorld)
+  H="Hello World"
+  G="Goodbye World"
+  print(H)
+  print(G)
 def q6():
   #Write Assignment code here
   Troue = True
@@ -44,7 +43,7 @@ def q7():
   #Write Assignment code here
   seven = 7
   two = 2
-  print (seven // two)  
+  print (seven % two)  
   
 #DO NOT EDIT ANYTHING AFTER THIS COMMENT
 q1()
